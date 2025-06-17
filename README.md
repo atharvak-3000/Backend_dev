@@ -15,14 +15,13 @@ It supports creating, editing, deleting, and viewing posts using server-side ren
 
 ## 🖼️ Screenshots
 
-> Replace these with actual images
-
-- ![Home](./assets/Home.png)
-- ![Create Post](./assets/New_Post.png)
-- ![Edit Post](./assets/Edit_Post.png)
-- ![Detail View](./assets/See_in_detail.png)
-
----
+<p align="center">
+  <img src="./assets/Home.png" width="45%" style="margin:10px;" />
+  <img src="./assets/New_Post.png" width="45%" style="margin:10px;" />
+  <br>
+  <img src="./assets/Edit_Post.png" width="45%" style="margin:10px;" />
+  <img src="./assets/See_in_detail.png" width="45%" style="margin:10px;" />
+</p>
 
 ## 🚀 Run Locally
 
