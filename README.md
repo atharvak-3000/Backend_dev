@@ -17,10 +17,10 @@ It supports creating, editing, deleting, and viewing posts using server-side ren
 
 > Replace these with actual images
 
-- ![Home](./REST_CLASS/assets/Home.png)
-- ![Create Post](./REST_CLASS/assets/New_Post.png)
-- ![Edit Post](./REST_CLASS/assets/Edit_Post.png)
-- ![Detail View](./REST_CLASS/assets/See_in_detail.png)
+- ![Home](./assets/Home.png)
+- ![Create Post](./assets/New_Post.png)
+- ![Edit Post](./assets/Edit_Post.png)
+- ![Detail View](./assets/See_in_detail.png)
 
 ---
 
